@@ -1,1 +1,1 @@
-Type = main
+Branch Name = main
