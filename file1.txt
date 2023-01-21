@@ -1,1 +1,1 @@
-Branch Name = main
+Branch Name = main branch
